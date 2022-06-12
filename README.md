@@ -8,3 +8,4 @@ Studies on Clean Architecture and Clean Code
 - Event-driven, Event Sourcing, etc
 - CQRS
 - Testing: Unit, Funcional, etc
+- Documentation
