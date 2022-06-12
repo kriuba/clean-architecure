@@ -1,4 +1,4 @@
-# clean-architecure
+# Clean Architecture
 Studies on Clean Architecture and Clean Code
 
 ## Aiming for:
