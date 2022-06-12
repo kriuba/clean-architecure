@@ -9,3 +9,4 @@ Studies on Clean Architecture and Clean Code
 - CQRS
 - Testing: Unit, Funcional, etc
 - Documentation
+- Docker & containers
